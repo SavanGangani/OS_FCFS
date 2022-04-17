@@ -1,0 +1,26 @@
+{
+  "name": "process-scheduling-solver",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-google-charts": "^4.0.0",
+    "react-select": "^4.3.1",
+    "styled-components": "^5.3.3",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.38",
+    "@types/react-select": "^4.0.18",
+    "@types/styled-components": "^5.1.19",
+    "file-loader": "^6.2.0",
+    "typescript": "^4.5.4",
+    "url-loader": "^4.1.1"
+  }
+}
